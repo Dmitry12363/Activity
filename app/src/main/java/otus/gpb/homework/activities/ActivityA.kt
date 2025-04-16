@@ -10,7 +10,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-
 private const val TAG = "TAG"
 
 class ActivityA : AppCompatActivity() {
